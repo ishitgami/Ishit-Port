@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fc7f0b2e0b5651f979a80b86aed63baa",
+  "assets/AssetManifest.json": "28dcdff06c87d53799c1f259fc7afc00",
 "assets/assets/1.png": "38a9b71aad063ab746a7dfaa842750ab",
 "assets/assets/11.png": "fc7a2c73d4056e057899236d09791e6a",
 "assets/assets/111.png": "17ee50b8cff85fdfd5df1e2fd8a8b417",
@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/222.png": "8279e382be87edb6473ff445ba3ae301",
 "assets/assets/333.png": "f373fe8f5669fe14201e1efd878c0df5",
 "assets/assets/444.png": "e3cf4b4b34b30162e8834148c952c6f7",
+"assets/assets/4444.png": "58f806f72640de071b62395efecf3016",
 "assets/assets/555.png": "41e7c6724df335b352d70b6548b7aeb3",
 "assets/assets/img1.png": "284e461e98b3af7748c3bdf101949ef9",
 "assets/assets/img2.png": "49d39274d5f279044e6b1fa835d6a55d",
@@ -21,6 +22,7 @@ const RESOURCES = {
 "assets/assets/img5.png": "b3a4a93003c7432debbac35caab52eec",
 "assets/assets/img6.png": "7e6bd4b2483afdeca0363490c242b57d",
 "assets/assets/ishit.png": "bc3d01ff3791fa804636cb3c73f52ec5",
+"assets/assets/ishitgami.png": "52634eb4de6f5dcd4477ebd832e77b05",
 "assets/assets/manInSpace.png": "6ef2b2e21f035d57e92847f97487a298",
 "assets/assets/parallax0.png": "bac00e42cc8bf06df9d05485095469da",
 "assets/assets/parallax1.png": "95044d146ce7064a1e7de6feeb221a47",
@@ -43,9 +45,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "b22add7816434b505e6dea1f8f0581f3",
-"/": "b22add7816434b505e6dea1f8f0581f3",
-"main.dart.js": "254af7654352e6149bd585ba552995d0",
+"index.html": "54dcb939b9e9351a1ca52e890efa130c",
+"/": "54dcb939b9e9351a1ca52e890efa130c",
+"main.dart.js": "55c4f9a04b1f24be4c4c4677fd98a837",
 "manifest.json": "466b05f95cab294209e5072e79eb1837",
 "version.json": "e3f789945c957aed15f1851761c7e38a"
 };
